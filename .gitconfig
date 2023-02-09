@@ -4,3 +4,5 @@
 	emil = ymsalis.com
 [credential]
 	credentialstore = gpg
+[core]
+	excludesfile = /root/.gitignore_global
