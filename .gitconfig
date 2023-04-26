@@ -6,3 +6,5 @@
 	credentialstore = gpg
 [core]
 	excludesfile = /root/.gitignore_global
+[use]
+	email = ymsalis@gmail.com
